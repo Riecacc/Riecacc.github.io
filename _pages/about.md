@@ -69,27 +69,20 @@ My current research interests are at the intersection of autonomous driving syst
 - ``DAC 2023`` [FLNA: An Energy-Efficient Point Cloud Feature Learning Accelerator with Dataflow Decoupling](https://ieeexplore.ieee.org/abstract/document/10247674), **Dongxu Lyu**, Zhenyu Li, Yuzhou Chen, Ningyi Xu, Guanghui He, *2023 60th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2023, pp. 1-6.
 - ``ISCAS 2023`` [O$^3$NMS: An Out-Of-Order-Based Low-Latency Accelerator for Non-Maximum Suppression](https://ieeexplore.ieee.org/abstract/document/10181731), Yuzhou Chen, Jinming Zhang, **Dongxu Lyu**, Xi Yu, Guanghui He, *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*, Monterey, CA, USA, 2023, pp. 1-5.
 
-### Emerging Stochastic Computing Techniques for AI Computing (Sep. 2021 -- Present)
-- ``TNANO 2024`` [Efficient Parallel Stochastic Computing Multiply-Accumulate (MAC) Technique Using Pseudo-Sobol Bit-Streams](), Aokun Hu, Wenjie Li, **Dongxu Lyu**, Guanghui He, in *IEEE Transactions on Nanotechnology*.
-- ``NANOARCH 2022`` [An Efficient Stochastic Convolution Accelerator based on Pseudo-Sobol Sequences](https://dl.acm.org/doi/abs/10.1145/3565478.3572543), Aokun Hu, Wenjie Li, **Dongxu Lyu**, Guanghui He, *the 17th ACM International Symposium on Nanoscale Architectures (NANOARCH)*, pp. 1-6. 2022.
-
-### Efficient Massive MIMO Detectors for 5G/6G Communication (Sep. 2019 -- Sep. 2021)
-- ``TVLSI 2021`` [A 3.85-Gb/s 8 × 8 Soft-Output MIMO Detector With Lattice-Reduction-Aided Channel Preprocessing](https://ieeexplore.ieee.org/abstract/document/9266114), Zhuojun Liang, **Dongxu Lyu**, Chao Cui, Hai-Bao Chen, Weifeng He, Weiguang Sheng, Naifeng Jing, Zhigang Mao, Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*, vol. 29, no. 2, pp. 307-320, Feb. 2021.
-
 
 # 🎖 Honors and Awards
-- *2021.11* **1st Prize on China Postgraduate IC Innovation Competition (中国研究生创芯大赛)** from Association of Chinese Graduate Education. 
-- *2020.06* **Shanghai Outstanding Graduate** from Shanghai City.
-- *2020.06* **Departmental Excellent Undergraduate Thesis (Department of Micro/Nano Electronics)** from Shanghai Jiao Tong University.
-- *2019.09* **Guanghua Scholarship** from Shanghai Jiao Tong University.
+- *2023.11* **Rongchang Technology Innovation Scholarship (Top20 in Shanghai Jiao Tong University)** from Shanghai Jiao Tong University.
+- *2023.06* **Shanghai Outstanding Graduate** from Shanghai City.
+- *2023.06* **Zhiyuan Outstanding Student Scholarship (Top15 in Zhiyuan Honored Program)** from Shanghai Jiao Tong University.
+- *2023.06* **Departmental Excellent Undergraduate Thesis (Department of Micro/Nano Electronics)** from Shanghai Jiao Tong University.
+- *2020.11* **Zhiyuan Honors Scholarship** from Shanghai Jiao Tong University.
 
 # 📖 Educations
-- *2020.09 - 2025.06 (expected)*, Ph.D. student in Electronic Science and Technology  (*Department of Micro/Nano Electronics*), Shanghai Jiao Tong University, Shanghai, China.
-- *2016.09 - 2020.06*, B.E. in Microelectronics Science and Engineering (*Department of Micro/Nano Electronics*), Shanghai Jiao Tong University, Shanghai, China. 
+- *2023.09 - 2026.02 (expected)*, M.D. student in Electronic Science and Technology  (*Department of Micro/Nano Electronics*), Shanghai Jiao Tong University, Shanghai, China.
+- *2019.09 - 2023.06*, B.E. in Microelectronics Science and Engineering (*Department of Micro/Nano Electronics*), Shanghai Jiao Tong University, Shanghai, China. 
 
 # 💬 Invited Talks
-- *2023.07*, **"FLNA: An Energy-Efficient Point Cloud Feature Learning Accelerator with Dataflow Decoupling"** in DAC'23, Moscone Center West, San Francisco, CA, USA. 
-- *2023.07*, **"SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing"** in ICCAD'23, Hyatt Soma Downtown, San Francisco, CA, USA.
+- *2023.05*, **"O$^3$NMS: An Out-Of-Order-Based Low-Latency Accelerator for Non-Maximum Suppression"** in ISCAS'23, Monterey, CA, USA.
 
 # 💻 Internships
-- *2022.03 - now*, **Hardware & Toolchain Intern** in [Huixi Technology (辉羲智能)](https://www.rhino.auto/), Shanghai, China.
+- *2023.03 - now*, **Hardware & Toolchain Intern** in [Huixi Technology (辉羲智能)](https://www.rhino.auto/), Shanghai, China.
