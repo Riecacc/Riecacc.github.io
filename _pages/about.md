@@ -2,6 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
+excerpt_separator: <!-- more -->
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +20,7 @@ redirect_from:
 
 I am currently enrolled in a Master's program for Electrical Science and Technology at the School of Electronic Information and Electrical Engineering (电子信息与电气工程学院), Shanghai Jiao Tong University, Shanghai, China, and under the supervision of Professor [Guanghui He](https://dmne.sjtu.edu.cn/dmne/faculty/heguanghui/). 
 
-My current research interests are at the intersection of autonomous driving system, digital circuits and computer architectures. The current focus is efficient ASIC design for AI applications like object detection, point cloud processing and NeRF  (<a href='https://scholar.google.com/citations?user=lsL91dsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My current research interests are at the intersection of autonomous driving system, digital circuits and computer architectures. The current focus is efficient ASIC design for AI applications like object detection, point cloud processing and NeRF (<a href='https://scholar.google.com/citations?user=lsL91dsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
