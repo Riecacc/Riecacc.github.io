@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently enrolled in a Master's program for Electrical Science and Technology at the School of Electronic Information and Electrical Engineering (电子信息与电气工程学院), Shanghai Jiao Tong University, Shanghai, China, and under the supervision of Professor [Guanghui He](https://dmne.sjtu.edu.cn/dmne/faculty/heguanghui/). 
 
-My current research interests are at the intersection of autonomous driving system, digital circuits and computer architectures. The current focus is efficient ASIC design for AI applications like object detection, point cloud processing and NeRF.
+My current research interests are at the intersection of autonomous driving system, digital circuits and computer architectures. The current focus is efficient ASIC design for AI applications like object detection, point cloud processing and NeRF  (<a href='https://scholar.google.com/citations?user=lsL91dsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -54,7 +54,7 @@ My current research interests are at the intersection of autonomous driving syst
 
 **Yuzhou Chen**, Jinming Zhang, Dongxu Lyu, Xi Yu, Guanghui He
 - A novel non-maximum suppression (NMS) accelerator that enables ultra-low-latency NMS processing. 
-- Compared with the state-of-the-art accelerators, our FPGA implementation achieves 2.51x speedup and 37\% reduction in FPGA utilization. And our ASIC implementation achieves 3.65x speedup.
+- Compared with the state-of-the-art accelerators, our FPGA implementation achieves 2.51x speedup and our ASIC implementation achieves 3.65x speedup.
 - *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*
 </div>
 </div>
