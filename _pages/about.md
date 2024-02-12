@@ -42,7 +42,7 @@ My current research interests are at the intersection of autonomous driving syst
 **Yuzhou Chen**, Jinming Zhang, Dongxu Lyu, Zhenyu Li, Guanghui He
 
 - a broad-spectrum and high-throughput compression engine for feature maps (fmap) with software-hardware co-design.
-- It also demonstrates substantial throughput boost (128$\sim$4$\times$) and compression ratio improvement (13\%$\sim$42\%) over the state-of-the-art fmap compression engine while providing superior support of both CNN and Transformer fmaps.
+- It also demonstrates substantial throughput boost (4$\sim$128x) and compression ratio improvement (13\%$\sim$42\%) over the state-of-the-art fmap compression engine while providing superior support of both CNN and Transformer fmaps.
 - *IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II: EXPRESS BRIEFS (TCAS-II)*
 </div>
 </div>
@@ -54,7 +54,7 @@ My current research interests are at the intersection of autonomous driving syst
 
 **Yuzhou Chen**, Jinming Zhang, Dongxu Lyu, Xi Yu, Guanghui He
 - A novel non-maximum suppression (NMS) accelerator that enables ultra-low-latency NMS processing. 
-- Compared with the state-of-the-art accelerators, our FPGA implementation achieves 2.51$\times$ speedup and 37\% reduction in FPGA utilization. And our ASIC implementation achieves 3.65$\times$ speedup.
+- Compared with the state-of-the-art accelerators, our FPGA implementation achieves 2.51x speedup and 37\% reduction in FPGA utilization. And our ASIC implementation achieves 3.65x speedup.
 - *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*
 </div>
 </div>
@@ -63,7 +63,7 @@ My current research interests are at the intersection of autonomous driving syst
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
 - ``TCAS-II 2024`` [A Broad-Spectrum and High-Throughput Compression Engine for Neural Network Processors](), **Yuzhou Chen**, Jinming Zhang, Dongxu Lyu, Zhenyu Li, Guanghui He, in *IEEE Transactions on Circuits and Systems II: Express Briefs*.
-- ``ISCAS 2024`` [O$^3$NMS: An Out-Of-Order-Based Low-Latency Accelerator for Non-Maximum Suppression](), Siqi Cai, **Yuzhou Chen**, Wenhui Zhang, Zeyuan Jin, Gang Wang, Guanghui He, *2024 IEEE International Symposium on Circuits and Systems (ISCAS)*, Singapore, 2024.
+- ``ISCAS 2024`` [A High-Throughput Lossless Image Compression Engine Optimized for Compression Ratio](), Siqi Cai, **Yuzhou Chen**, Wenhui Zhang, Zeyuan Jin, Gang Wang, Guanghui He, *2024 IEEE International Symposium on Circuits and Systems (ISCAS)*, Singapore, 2024.
 - ``TVLSI 2024`` [FLNA: Flexibly Accelerating Feature Learning Networks for Large-Scale Point Clouds with Efficient Dataflow Decoupling](https://ieeexplore.ieee.org/document/10416684), Dongxu Lyu$^{\ddagger}$, Zhenyu Li$^{\ddagger}$, **Yuzhou Chen**, Gang Wang, Weifeng He, Ningyi Xu, Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
 - ``ICCAD 2023`` [SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing](https://ieeexplore.ieee.org/document/10323728), Dongxu Lyu, Zhenyu Li, **Yuzhou Chen**, Jinming Zhang, Ningyi Xu, Guanghui He, *2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, San Francisco, CA, USA, 2023, pp. 1-9.
 - ``DAC 2023`` [FLNA: An Energy-Efficient Point Cloud Feature Learning Accelerator with Dataflow Decoupling](https://ieeexplore.ieee.org/abstract/document/10247674), Dongxu Lyu, Zhenyu Li, **Yuzhou Chen**, Ningyi Xu, Guanghui He, *2023 60th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2023, pp. 1-6.
