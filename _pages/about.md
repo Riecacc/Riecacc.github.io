@@ -42,7 +42,7 @@ My current research interests are at the intersection of autonomous driving syst
 **Yuzhou Chen**, Jinming Zhang, Dongxu Lyu, Zhenyu Li, Guanghui He
 
 - a broad-spectrum and high-throughput compression engine for feature maps (fmap) with software-hardware co-design.
-- It also demonstrates substantial throughput boost (4$\sim$128x) and compression ratio improvement (13\%$\sim$42\%) over the state-of-the-art fmap compression engine while providing superior support of both CNN and Transformer fmaps.
+- It also demonstrates substantial throughput boost (4$\sim$128x) and compression ratio improvement over the state-of-the-art fmap compression engine while providing superior support of both CNN and Transformer fmaps.
 - *IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II: EXPRESS BRIEFS (TCAS-II)*
 </div>
 </div>
