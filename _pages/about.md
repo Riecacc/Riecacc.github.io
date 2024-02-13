@@ -47,6 +47,18 @@ My current research interests are at the intersection of autonomous driving syst
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCAS 2023</div><img src='images/ISCAS2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[O$^3$NMS: An Out-Of-Order-Based Low-Latency Accelerator for Non-Maximum Suppression](https://ieeexplore.ieee.org/abstract/document/10181731)
+
+**Yuzhou Chen**, Jinming Zhang, Dongxu Lyu, Xi Yu, Guanghui He
+- A novel non-maximum suppression (NMS) accelerator that enables ultra-low-latency NMS processing. 
+- Compared with the state-of-the-art accelerators, our FPGA implementation achieves 2.51x speedup and our ASIC implementation achieves 3.65x speedup.
+- *2023 IEEE International Symposium on Circuits and Systems (ISCAS)*
+</div>
+</div>
+
 ## Full Pub List
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
