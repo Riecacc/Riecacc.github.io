@@ -22,6 +22,7 @@ My current research interests are at the intersection of autonomous driving syst
 
 
 # 🔥 News
+- 2024.02:  🎉🎉 One co-authored paper about Deformable Attention Acceleration is accepted by DAC’24 !!! Congratulations to Yansong !!!! See you in San Francisco !!!
 - *2024.02*: &nbsp;🎉🎉 Our paper about *data compression engine for NN processors* is accepted by IEEE TCAS-II.
 - *2024.01*: &nbsp;🎉🎉 One co-authored paper about *FLN acceleration for large-scale point clouds* is accepted by IEEE TVLSI. Congratulations to Dongxu and Zhenyu !!! 
 - *2024.01*: &nbsp;🎉🎉 One co-authored paper about *high-resolution image compressor and decompressor* is accepted by ISCAS 2024. Congratulations to Siqi !!! 
@@ -61,6 +62,7 @@ My current research interests are at the intersection of autonomous driving syst
 ## Full Pub List
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
+- ``DAC 2024`` [DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing](), Yansong Xu, Dongxu Lyu, Zhenyu Li, **Yuzhou Chen**, Zilong Wang, Gang Wang, Zhican Wang, Haomin Li and Guanghui He, 2024 61th ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2024.
 - ``TCAS-II 2024`` [A Broad-Spectrum and High-Throughput Compression Engine for Neural Network Processors](https://ieeexplore.ieee.org/document/10433078), **Yuzhou Chen**, Jinming Zhang, Dongxu Lyu, Zhenyu Li, Guanghui He, in *IEEE Transactions on Circuits and Systems II: Express Briefs*.
 - ``ISCAS 2024`` [A High-Throughput Lossless Image Compression Engine Optimized for Compression Ratio](), Siqi Cai, **Yuzhou Chen**, Wenhui Zhang, Zeyuan Jin, Gang Wang, Guanghui He, *2024 IEEE International Symposium on Circuits and Systems (ISCAS)*, Singapore, 2024.
 - ``TVLSI 2024`` [FLNA: Flexibly Accelerating Feature Learning Networks for Large-Scale Point Clouds with Efficient Dataflow Decoupling](https://ieeexplore.ieee.org/document/10416684), Dongxu Lyu$^{\ddagger}$, Zhenyu Li$^{\ddagger}$, **Yuzhou Chen**, Gang Wang, Weifeng He, Ningyi Xu, Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*.
