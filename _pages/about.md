@@ -79,7 +79,7 @@ My current research interests are at the intersection of autonomous driving syst
 - *2020.11* **Zhiyuan Honors Scholarship** from Shanghai Jiao Tong University.
 
 # 📖 Educations
-- *2023.09 - 2026.02 (expected)*, M.D. student in Electronic Science and Technology  (*Department of Micro/Nano Electronics*), Shanghai Jiao Tong University, Shanghai, China.
+- *2023.09 - 2026.03 (expected)*, MS student in Electronic Science and Technology  (*Department of Micro/Nano Electronics*), Shanghai Jiao Tong University, Shanghai, China.
 - *2019.09 - 2023.06*, B.E. in Microelectronics Science and Engineering (*Department of Micro/Nano Electronics*), Shanghai Jiao Tong University, Shanghai, China. 
 
 # 💬 Invited Talks
